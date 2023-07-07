@@ -1,0 +1,11 @@
+{
+  "symbolInfo": {
+    "ClientFramework": {
+      "longName": "client-framework",
+      "shortName": "cf"
+    },
+    "UseLocalDB": {
+      "longName": "use-local-db"
+    }
+  }
+}
